@@ -10,13 +10,13 @@
 ## 🛠️ Tech Stacks (기술 스택)
 - Languages: Python
 - Databases: SQL(MySQL,DBeaver)
-- DevOps & Tools: Docker,, Git, Notion
+- DevOps & Tools: Docker, Git, Notion
 
 ---
 
 ## 💻 Projects (주요 프로젝트)
 
-### 1. AI 기반 스마트 잡초 관리 시스템 (팀 프로젝트 / 4주)
+### 1. AI 기반 스마트 방제 관리 시스템 (팀 프로젝트 / 4주)
 - 한 줄 요약: 딥러닝 객체 인식 기술을 활용한 자율 구동형 방제 로봇 개발 프로젝트
 - 담당 역할:
   - Raspberry Pi 5 기반 하드웨어 환경 구축
