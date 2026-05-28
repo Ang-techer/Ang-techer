@@ -35,4 +35,5 @@
 
 ## 📫 Contact
 - **Email:** 제이메일주소@gmail.com
-- **Notion Portfolio:** [제 노션 이력서 전체 보기](노션링크주소)
+- **Notion Project_Portfolio:** [포트폴리오 구경가기!](https://www.notion.so/cbcc5c46742783bba6f201e5d2702808?v=7b0c5c46742783fc840b88f70f301b02)
+- **Notion Team Project_Portfolio:** [포트폴리오 구경가기!](https://www.notion.so/367a72a369ca804bb3f8cc0476ee68e0?v=367a72a369ca80edb7de000ce5b860fc)
