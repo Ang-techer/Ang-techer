@@ -24,16 +24,15 @@
   - FastAPI 서버 구축 및 REST API 설계
   - 병반 사진 캡처 → 진단 결과 JSON 응답 파이프라인 구현
   - AWS 서버와 데이터 연동 환경 구성
-  - 
+  - 방제 관리 앱과 RPI AI Camera간 데이터 연동 구현
 - 자세히 보기: 
 ---
 
 ## 📈 Github Stats (활동 통계)
-*여기에 3단계에서 알려드릴 통계 그래프 코드를 넣을 예정입니다!*
 
 ---
 
 ## 📫 Contact
-- **Email:** 제이메일주소@gmail.com
+- **Email:** tjsen17@naver.com
 - **Notion Project_Portfolio:** [포트폴리오 구경가기!](https://www.notion.so/cbcc5c46742783bba6f201e5d2702808?v=7b0c5c46742783fc840b88f70f301b02)
 - **Notion Team Project_Portfolio:** [포트폴리오 구경가기!](https://app.notion.com/p/Human-exe-Team-Briefing-368a72a369ca807ead8bcecb8da58650)
