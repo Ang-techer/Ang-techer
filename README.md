@@ -36,4 +36,4 @@
 ## 📫 Contact
 - **Email:** 제이메일주소@gmail.com
 - **Notion Project_Portfolio:** [포트폴리오 구경가기!](https://www.notion.so/cbcc5c46742783bba6f201e5d2702808?v=7b0c5c46742783fc840b88f70f301b02)
-- **Notion Team Project_Portfolio:** [포트폴리오 구경가기!](https://app.notion.com/p/366a72a369ca80fbbe9fee6c6583bcea?v=366a72a369ca809ea743000c57f64b48)
+- **Notion Team Project_Portfolio:** [포트폴리오 구경가기!](https://app.notion.com/p/Human-exe-Team-Briefing-368a72a369ca807ead8bcecb8da58650)
