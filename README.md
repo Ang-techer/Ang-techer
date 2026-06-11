@@ -25,8 +25,7 @@
   - 병반 사진 캡처 → 진단 결과 JSON 응답 파이프라인 구현
   - AWS 서버와 데이터 연동 환경 구성
   - 방제 관리 앱과 RPI AI Camera간 데이터 연동 구현
-- 자세히 보기: 
----
+- 자세히 보기: Contact에서 Notion Project_Portfolio 참고!
 
 ## 📈 Github Stats (활동 통계)
 
